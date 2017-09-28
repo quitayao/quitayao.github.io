@@ -1,5 +1,0 @@
-baseURL = "http://quitayao.github.io/"
-languageCode = "en-us"
-title = "Quitayao: Hero Living"
-theme = "hyde"
-publishDir = "docs"
